@@ -17,7 +17,8 @@ public class Main2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
         tx = (TextView) findViewById(R.id.textView);
         toolbar = (Toolbar) findViewById(R.id.toolbar2);
-        toolbar.setTitle("                  Display");
+        toolbar.setTitle("                          Display");
+
         textboxchange();
 
     }
